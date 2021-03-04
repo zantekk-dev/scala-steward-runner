@@ -1,0 +1,1 @@
+- duchessa/duchessa-sbt-build
